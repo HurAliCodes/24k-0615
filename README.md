@@ -47,4 +47,4 @@ const info = {
     - [ ] 4<sup>th</sup> Semester :tada:
    
 ##### My Profile Image:
-    ![My profile image alternative](https://github.com/HurAliCodes/Lab-02/blob/main/octocat-1725112492622.png)
+    ![My profile image alternative](octocat-1725112492622.png)
