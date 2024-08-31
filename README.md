@@ -44,7 +44,7 @@ const info = {
     * [X] 1<sup>st</sup> Semester 
     - [ ] 2<sup>nd</sup> Semester
     - [ ] 3<sup>rd</sup> Semester 
-    - [ ] 4<sup>th</sup> Semester :tada"
+    - [ ] 4<sup>th</sup> Semester :tada:
    
 ##### My Profile Image:
-    ![My profile image alternative](https://sl.bing.net/gf6cSY3ypIy)
+    ![My profile image alternative](https://github.com/HurAliCodes/Lab-02/blob/main/octocat-1725112492622.png)
