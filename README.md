@@ -25,21 +25,18 @@ const info = {
 + This allows me to apply skills in other fields like education, finance and healthcare.
 
 ##### My Educational Background:
-1. PreSchool:
-  * Playgroup - LIKE School System
-  * Nursery - The Knowledge School
-  * Prep - Allied School (TownShip Campus)
-2. Primary education:
+
+1. Primary education:
   - Class 1-5 - Allied School (TownShip Campus)
-3. Secondary education:
+2. Secondary education:
   + Class 6 - Allied School (Punjab campus)
   + Class 7-9 - Allied School (Al-Moiz campus)
-4. Higher Education (Matric):
+3. Higher Education (Matric):
   * Class 9-10 - Allied School (Al-Moiz campus)
-5. Higher Secondary :
+4. Higher Secondary :
   - ICS (Intermediate of Computer Science) - Punjab College Campus 11(a) Lahore
     + Then shifted to Karachi from Lahore
-6. Bachelors:
+5. Bachelors:
   - BCS (Bachelors of Commputer Science) - FAST NUCES KARACHI
     * [X] 1<sup>st</sup> Semester 
     - [ ] 2<sup>nd</sup> Semester
@@ -47,4 +44,5 @@ const info = {
     - [ ] 4<sup>th</sup> Semester :tada:
    
 ##### My Profile Image:
-    ![My profile image alternative](octocat-1725112492622.png)
+
+![My profile image alternative](octocat-1725112492622.png)
