@@ -10,10 +10,10 @@ Determine whether a given number is even or odd.
    - "Odd" if the number is not divisible by 2.
 
 ### Steps:
-1. Take a number as input.
-2. Check if the number is divisible by 2.
-   - Use the modulus operator (`%`) to check the remainder when the number is divided by 2.
-3. If the remainder is `0`, the number is even.
-4. Otherwise, the number is odd.
-5. Print the result.
+- []. Take a number as input.
+- []. Check if the number is divisible by 2.
+- []. Use the modulus operator (`%`) to check the remainder when the number is divided by 2.
+- []. If the remainder is `0`, the number is even.
+- []. Otherwise, the number is odd.
+- []. Print the result.
 
